@@ -1,4 +1,4 @@
-# Minggu-ke-III--BOOK-Paktikum-1
+# Minggu-ke-III--BOOK-Praktikum-1 (UNFINISHED)
 Praktikum Mata Kuliah Artificial Intelligence dengan bahasa Python - pertemuan ke 3
 
 4.9
